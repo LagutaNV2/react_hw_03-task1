@@ -1,5 +1,3 @@
-import React from 'react';
-
 export const Star = () => {
     return (
         // SVG-код представляет собой звезду, созданную с помощью тегов <path>.
